@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    <style>
+        #word{
+            background-color:black;
+            color:white;
+        }
+        .trav{
+            background-color:green;
+        }
+    </style>
+    </head>
+    <body>
+    
+        <h1 class = "trav">Travel to ....</h1>
+        <h2>Beach</h2>
+        <img src = "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-with-palm-trees.png" alt = "beach" width = "200" height = "150">
+        <img src = "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach.png" alt = "beach" width = "200" height = "150">
+        <img src = "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-waves-daytime.png" alt = "beach" width = "200" height = "150">
+        
+        <p id = "word">I wanna go beach</p>
+        <p id = "word">Because i like that</p>
+    </body>
+</html>
